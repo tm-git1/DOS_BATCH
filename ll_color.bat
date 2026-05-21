@@ -10,7 +10,7 @@ set "_="
 if %_i% leq %_cnt% (
     ::echo %_i%
     set /a _num=%_cnt%/1000000+6
-    color D%_num%                 ::e.g. color D7, try different things within range
+    color D%_num%                 ::e.g. color D7, try different things within - range
     set /a _i=_i+1
     set "!_=!_!!=--!i"  
     cd /
