@@ -1,4 +1,4 @@
-::Copyright (C) Thomas McCammon
+::Copyright (C) Thomas McCammon 2026
 @echo off
 setlocal EnableDelayedExpansion
 
